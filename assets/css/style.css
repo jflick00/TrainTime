@@ -1,0 +1,23 @@
+body {
+    background: url("../images/background.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+
+#currentTime {
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.jumbotron  {
+    background-color: #795656;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 900;
+    text-align: center;
+}
